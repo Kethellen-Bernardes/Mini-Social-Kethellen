@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #000;
+  background-color: #a58f94;
   color: #fff;
 }
 
@@ -13,7 +13,7 @@ header {
 
 .logo {
   font-family: 'Pacifico', cursive;
-  color: #d4af37;
+  color: #fffdfe;
   font-size: 40px;
 }
 
@@ -23,10 +23,10 @@ header {
 }
 
 .post {
-  background-color: #0f1f16;
+  background-color: #635659;
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 0 0 10px #0f1f16;
+  box-shadow: 0 0 10px #726257;
 }
 
 .post-header {
